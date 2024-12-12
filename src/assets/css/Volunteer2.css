@@ -1,0 +1,16 @@
+
+/* Custom styles for OwlCarousel navigation buttons */
+.owl-prev, .owl-next {
+    display: none !important;
+
+  
+}
+
+.owl-prev span {
+    display: none !important;
+
+}
+
+.owl-next span{
+    display: none !important;
+}

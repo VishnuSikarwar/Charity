@@ -1,0 +1,8 @@
+.Arrow {
+    font-weight: 700;
+
+}
+.Arrow:hover{
+    color: #83ba09;
+    cursor: pointer;
+}
